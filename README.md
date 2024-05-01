@@ -1,7 +1,7 @@
 # Guessing-number-game
 
 ###########################
-## PART 10: Simple Game ###
+##  Simple Game ###
 ### --- CODEBREAKER --- ###
 ## --Nope--Close--Match--  ##
 ###########################
